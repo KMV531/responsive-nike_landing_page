@@ -10,7 +10,6 @@
 ## ✨ Premium Features
 
 - **Pixel-Perfect Nike Aesthetic**: Faithful brand reproduction
-- **Butter-Smooth Animations**: Premium hover effects
 - **Mobile-First Excellence**: Flawless on all devices
 - **Lightning Fast**: 98 Lighthouse performance score
 - **SEO Optimized**: Next.js static generation
@@ -27,7 +26,6 @@
 
 - **0.3s First Contentful Paint**
 - **100/100 Mobile Performance**
-- **60 FPS Animations**
 
 ## 🏆 Why This Stands Out
 - **2x Higher Engagement than standard product pages**
